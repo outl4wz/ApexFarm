@@ -30,3 +30,5 @@ important:
 run sudo su 
 python3 ApexFarmer.py
 enjoy
+
+I will work on future improvements for the bot
