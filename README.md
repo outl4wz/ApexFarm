@@ -35,3 +35,13 @@ python3 ApexFarmer.py or python ApexFarmer.py
 enjoy
 
 I will work on future improvements for the bot
+
+
+FAQ
+raise error.Display ConnectionError(self.display_name, r.reason) Xlib.error.Display ConnectionError: Can't connect to display ":1": b'Authorization required, but no authorization protocol specified\n'
+
+sudo su
+
+xhost +local:$USER
+
+xhost +local:$USER > /dev/null
