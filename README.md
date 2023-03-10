@@ -27,8 +27,11 @@ pip install opencv-python
 pip install Pillow --upgrade
 
 important:  
+
 run sudo su 
+
 python3 ApexFarmer.py or python ApexFarmer.py
+
 enjoy
 
 I will work on future improvements for the bot
