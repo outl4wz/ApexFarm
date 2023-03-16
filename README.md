@@ -4,6 +4,8 @@ Hello this is a basic python script, that just looking for thinks on your screen
 
 https://www.unknowncheats.me/forum/apex-legends/464685-apexfarming.html
 
+change the file extension from .PNG to .png
+
 windows install
 THE INSTALL PYTHON.BAT file  and then run the start.bat
 
